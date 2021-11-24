@@ -2,9 +2,9 @@
 
 ## Submodule Usage Note
 This repository contains external git submodules for the Gadgetron gadget and Unity client projects. In order to pull all elements at the same time, you will need to recursively initialize all submodules via:
-'''
+```
 git submodule update --init --recursive
-'''
+```
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
