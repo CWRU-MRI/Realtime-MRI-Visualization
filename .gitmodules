@@ -1,0 +1,6 @@
+[submodule "Gadgetron Gadget"]
+	path = Gadgetron Gadget
+	url = https://github.com/CWRU-MRI/Gadgetron-Cardiac-Radial-Grappa
+[submodule "Unity Client"]
+	path = Unity Client
+	url = https://github.com/CWRU-MRI/Unity-Realtime-Medical-Imaging-Client
