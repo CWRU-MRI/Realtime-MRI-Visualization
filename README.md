@@ -1,5 +1,10 @@
 # A System for Real-Time, Online Mixed-Reality Visualization of Cardiac Magnetic Resonance Images
 
+This repository is the source code for the following publication:
+Franson D, Dupuis A, Gulani V, Griswold M, Seiberlich N. A System for Real-Time, Online Mixed-Reality Visualization of Cardiac Magnetic Resonance Images. Journal of Imaging. 2021; 7(12):274. [https://doi.org/10.3390/jimaging7120274 ](https://doi.org/10.3390/jimaging7120274)
+
+A tutorial on how to use and test our system is [available here.](https://www.casemri.com/2022/08/26/getting-started-realtime-mri-visualization/)
+
 ## Submodule Usage Note
 This repository contains external git submodules for the Gadgetron gadget and Unity client projects. In order to pull all elements at the same time, you will need to recursively initialize all submodules via:
 ```
